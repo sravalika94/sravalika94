@@ -1,6 +1,6 @@
 # Hi, I'm Sravalika
 
-I'm a Computer Science student interested in Python, Data Structures & Algorithms, and Machine Learning.
+I'm a Computer Science student intrested in Python, Data Structures & Algorithms, and Machine Learning.
 I enjoy building projects that help me learn and apply new concepts. This GitHub profile contains my academic projects, DSA practice, and work related to web development and Artificial Intelligence machine learning.
 
 ## Skills
